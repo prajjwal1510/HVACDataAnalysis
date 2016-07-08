@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="org.hvac.reporter:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="org.hvac.reporter.war">
+      <element id="artifact" artifact-name="org.hvac.reporter:war exploded" />
+    </root>
+  </artifact>
+</component>
